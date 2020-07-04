@@ -2,7 +2,8 @@
 Django Website Works on Python Module Transliterate
 
 
-https://desolate-castle-84084.herokuapp.com/
+
+<a href="https://desolate-castle-84084.herokuapp.com/" target="_blank">The Project</a>
 
 
 [![Run on Repl.it](https://repl.it/badge/github/Niranjanprof/Transliterate-The-Translator)](https://repl.it/github/Niranjanprof/Transliterate-The-Translator)
